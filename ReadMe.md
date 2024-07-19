@@ -8,3 +8,5 @@
 ### Scripts
 1. Run npm start for interactive CLI
 2. Run npm test to test the alarm clock functionality
+
+Test: https://codesandbox.io/p/devbox/alarm-clock-yxgn6h
